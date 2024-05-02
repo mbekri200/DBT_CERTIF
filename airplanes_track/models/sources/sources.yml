@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: Raw_data
+    database: AIRPLANES  
+    schema: dev_sch  
+    tables:
+      - name: flights
+      - name: zones
+      - name: airports
+      - name: airlines
