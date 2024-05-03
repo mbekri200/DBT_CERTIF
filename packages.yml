@@ -1,0 +1,3 @@
+packages:
+  - git: "https://github.com/JeanExtreme002/FlightRadarAPI.git"
+    revision: main
